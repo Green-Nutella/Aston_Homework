@@ -1,3 +1,5 @@
+package lesson_2;
+
 public class Task4 {
     public static void compareNumbers(){
         int a = 87;

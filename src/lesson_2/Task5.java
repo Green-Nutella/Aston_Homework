@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package lesson_2;
 
 public class Task5 {
     public static void yesOrNo(){

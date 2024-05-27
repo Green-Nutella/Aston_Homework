@@ -1,3 +1,5 @@
+package lesson_2;
+
 public class Task7 {
     public static void numberTF(){
         int number = 34;

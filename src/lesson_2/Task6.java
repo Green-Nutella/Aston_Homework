@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package lesson_2;
 
 public class Task6 {
     public static void positiveOrNegative(){

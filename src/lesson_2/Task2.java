@@ -1,3 +1,5 @@
+package lesson_2;
+
 public class Task2 {
     public static void checkSumSign(){
         int a = 5;

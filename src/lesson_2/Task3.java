@@ -1,3 +1,5 @@
+package lesson_2;
+
 public class Task3 {
     public static void printColor(){
         int value = 101;

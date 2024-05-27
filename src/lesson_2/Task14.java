@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package lesson_2;
 
 public class Task14 {
     public static int[] twoArguments(int len, int initialValue) {
